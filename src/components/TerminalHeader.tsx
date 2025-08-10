@@ -45,9 +45,11 @@ const TerminalHeader = () => {
               View Projects
             </a>
             <a
-              href="#contact"
+              href="https://t.me/ReZaHeydari_dev"
               className="terminal-border px-6 py-3 hover:bg-card transition-colors"
               aria-label="Contact information"
+              target="_black"
+              rel="no-opener noreferrer"
             >
               Contact Me
             </a>
