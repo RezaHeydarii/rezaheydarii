@@ -25,12 +25,12 @@ const TerminalHeader = () => {
         </div>
 
         <div className="space-y-4 min-w-auto lg:min-w-4xl">
-          <h1 className="text-4xl md:text-6xl font-bold terminal-glow animate-typing w-max whitespace-nowrap overflow-hidden">
+          <h1 className="text-xl sm:text-4xl md:text-5xl font-bold terminal-glow animate-typing w-max whitespace-nowrap overflow-hidden">
             {text}
             <span className="typing-cursor" aria-hidden="true"></span>
           </h1>
 
-          <div className="text-lg md:text-xl text-muted-foreground animate-fade-in">
+          <div className="text-sm sm:text-lg md:text-xl text-muted-foreground animate-fade-in">
             <p className="mb-2">{">"} 6+ years of experience</p>
             <p className="mb-2">{">"} React • Next.js • React Native</p>
             <p className="mb-2">{">"} Node.js • NestJS • AI Engineering</p>
