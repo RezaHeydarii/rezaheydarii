@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Reza HeydariAdd commentMore actions
+# 👋 Hi, I'm Reza Heydari
 
 I'm a front-end engineer with over 6 years of experience building scalable, user-focused applications using **React**, **Next.js**, and **React Native**. I also have a growing passion for back-end technologies, especially **Node.js**, **NestJS** , and I'm currently expanding into the field of **AI engineering**.
 
