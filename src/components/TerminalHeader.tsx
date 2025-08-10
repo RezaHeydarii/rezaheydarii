@@ -1,5 +1,5 @@
 const TerminalHeader = () => {
-  const text = "> Fullstack Developer";
+  const text = "> Software Engineer";
 
   return (
     <header className="min-h-screen flex items-center justify-center relative overflow-hidden">

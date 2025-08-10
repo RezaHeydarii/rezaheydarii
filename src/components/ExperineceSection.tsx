@@ -1,6 +1,6 @@
 const experiences = [
   {
-    title: "Fullstack Developer",
+    title: "Software Engineer",
     company: "OneCliq, Canada",
     period: "September 2022 - Present",
     description:
