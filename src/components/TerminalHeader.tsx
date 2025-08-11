@@ -31,9 +31,17 @@ const TerminalHeader = () => {
           </h1>
 
           <div className="text-sm sm:text-lg md:text-xl text-muted-foreground animate-fade-in">
-            <p className="mb-2">{">"} 6+ years of experience</p>
-            <p className="mb-2">{">"} React • Next.js • React Native</p>
-            <p className="mb-2">{">"} Node.js • NestJS • AI Engineering</p>
+            <p className="mb-2">
+              {">"} Crafting AI-Powered Software That Works in the Real World
+              (1× Exit)
+            </p>
+            <p className="mb-2">
+              {">"} Software Engineer with 7+ Years of Experience{" "}
+            </p>
+            <p className="mb-2">
+              {">"} React, React Native, Node.js & NestJS for AI-Powered
+              Products{" "}
+            </p>
           </div>
 
           <div className="mt-8 flex flex-wrap gap-4">
