@@ -6,14 +6,14 @@
 
 </div>
 
-I'm a full-stack engineer with 7+ years of experience shipping production software — from **React**/**Next.js** front-ends to **Node.js**/**Fastify** backends — and for the last two years, I've been building the AI/agent layer on top of that stack: **RAG pipelines**, **LangChain/LangGraph agents**, and **MCP servers**.
+I'm a full-stack engineer with 7+ years of experience shipping production software — from **React**/**Next.js** front-ends to **Node.js**/**Fastify** backends, and for the last two years, I've been building the AI/agent layer on top of that stack: **RAG pipelines**, **LangChain/LangGraph agents**, and **MCP servers**.
 
 I led front-end and contributed to the data architecture of an AI-powered market research platform (**Customer Insight Engine**) at OneCliq, which was later acquired by **Dig Insights**. More recently, as a founding engineer at **Yassi.ai**, I've owned an AI product end-to-end — including a document classification/analysis pipeline and a custom MCP server wired into a LangGraph agent.
 
 ## 🚀 What I Do
 
 - 🧠 AI/Agent Engineering: Building production RAG pipelines, LangGraph agents, and MCP servers for document analysis and tool-calling workflows.
-- 🔁 Full-Stack Ownership: Taking products from database to UI — architecture, APIs, and frontend, not just one layer.
+- 🔁 Full-Stack Ownership: Taking products from database to UI, architecture, APIs, and frontend, not just one layer.
 - 🧑‍💻 Front-End Development: Crafting responsive, fast, and accessible UIs with React/Next.js.
 - ⚙️ Backend: Building robust APIs with Node.js, Fastify, and NestJS.
 
@@ -31,7 +31,7 @@ I led front-end and contributed to the data architecture of an AI-powered market
 
 ## 📌 Pinned Work
 
-- **prompt-almanac** — a public collection of tested, structured prompts for real workflows (resume building, career positioning, and more)
+- **prompt-almanac**, a public collection of tested, structured prompts for real workflows (resume building, career positioning, and more)
 
 ## 🧠 Recent Focus
 
