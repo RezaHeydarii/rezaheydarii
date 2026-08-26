@@ -1,26 +1,28 @@
 # 👋 Hi, I'm Reza Heydari
 
-I'm a front-end engineer with over 6 years of experience building scalable, user-focused applications using **React**, **Next.js**, and **React Native**. I also have a growing passion for back-end technologies, especially **Node.js**, **NestJS** , and I'm currently expanding into the field of **AI engineering**.
+I'm a full-stack engineer with 7+ years of experience shipping production software — from **React**/**Next.js** front-ends to **Node.js**/**Fastify** backends — and for the last two years, I've been building the AI/agent layer on top of that stack: **RAG pipelines**, **LangChain/LangGraph agents**, and **MCP servers**.
+
+I led front-end and contributed to the data architecture of an AI-powered market research platform (**Customer Insight Engine**) at OneCliq, which was later acquired by **Dig Insights**. More recently, as a founding engineer at **Yassi.ai**, I've owned an AI product end-to-end — including a document classification/analysis pipeline and a custom MCP server wired into a LangGraph agent.
 
 ## 🚀 What I Do
 
-- 🧑‍💻 Front-End Development: Crafting responsive, fast, and accessible UIs.
-- 🔁 Full-Stack Projects: Combining **Front** and **Back**, in monorepo architectures.
-- ⚙️ Backend: Building robust APIs with Node.js and Express/NestJS.
-- 📊 AI & LLM Research: Using **RAG**, **ReAct**, and building custom agents to reduce hallucinations and improve the reasoning capabilities of large language models.
+- 🧠 AI/Agent Engineering: Building production RAG pipelines, LangGraph agents, and MCP servers for document analysis and tool-calling workflows.
+- 🔁 Full-Stack Ownership: Taking products from database to UI — architecture, APIs, and frontend, not just one layer.
+- 🧑‍💻 Front-End Development: Crafting responsive, fast, and accessible UIs with React/Next.js.
+- ⚙️ Backend: Building robust APIs with Node.js, Fastify, and NestJS.
 
 ## 🔧 Tools & Technologies
 
-- Frontend: React, Next.js, React Native, TailwindCSS, Vite  
-- Backend: Node.js, Express, NestJS, Fastify  
-- Databases: PostgreSQL, MongoDB, TypeORM, Mongoose  
+- AI & Agents: LangChain, LangGraph, MCP, RAG, Prompt Engineering
+- Frontend: React, Next.js, React Native, TailwindCSS, Vite
+- Backend: Python, Node.js, Fastify, Express, NestJS
+- Databases: PostgreSQL, MongoDB, TypeORM, Mongoose
 
 ## 🧠 Recent Focus
 
-I'm currently working on:
-- **Customer Insight Engine** at OneCliq: an AI-powered market research tool
+- Founding engineer at **Yassi.ai**, building an AI document-processing product end-to-end — database, backend, frontend, and agent orchestration
+- Going deeper on multi-agent orchestration and MCP-based tool integration
 - Learning to lead engineering teams more effectively
-- learning more about ai engineering and LLMs
 
 ## 📫 Let's Connect
 
@@ -28,5 +30,5 @@ I'm currently working on:
 
 ---
 
-Thanks for stopping by!  
+Thanks for stopping by!
 Feel free to explore my projects or reach out to collaborate.
