@@ -20,7 +20,7 @@ I led front-end and contributed to the data architecture of an AI-powered market
 
 ## 🧠 Recent Focus
 
-- Founding engineer at **Yassi.ai**, building an AI document-processing product end-to-end — database, backend, frontend, and agent orchestration
+- building an AI document-processing product end-to-end — database, backend, frontend, and agent orchestration
 - Going deeper on multi-agent orchestration and MCP-based tool integration
 - Learning to lead engineering teams more effectively
 
